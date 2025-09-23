@@ -1,0 +1,9 @@
+{
+	"name": "ADFFirstPipelinemumu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01b60e52-146d-41f2-ab6d-475eca3b5b92",
+		"tenantId": "0c8f711c-d15b-4155-a8e6-34218b254c88"
+	}
+}

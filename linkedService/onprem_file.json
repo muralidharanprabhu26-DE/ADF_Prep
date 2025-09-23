@@ -1,0 +1,17 @@
+{
+	"name": "onprem_file",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\ADF",
+			"userId": "HP",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1NDIyNzkzMC04NzU4LTQ5YjktOTc1ZS04NzVmYWQyMTY3YjciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "mumu-selfhosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

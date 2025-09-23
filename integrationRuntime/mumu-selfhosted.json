@@ -1,0 +1,6 @@
+{
+	"name": "mumu-selfhosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
